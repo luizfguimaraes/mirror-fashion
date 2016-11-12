@@ -59,7 +59,7 @@ Fashion, além de presidentes da União Européia, Ásia e o secretário-geral d
     <li>Se você achar uma loja mais barata, leva o produto de graça</li>
     <li>Pague em reais, dólares, euros ou bitcoins</li>
     <li>Todas as compras com frete grátis para o mundo todo</li>
-    <li>Maior comércio eletrônico de moda do mundo</li>
+    
     <li>Atendimento via telefone, email, chat, twitter, facebook, carta, fax e telegrama</li>
     <li>Presente em 124 países</li>
     <li>Mais de um milhão de funcionários em todo o mundo</li>
