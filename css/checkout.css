@@ -1,0 +1,7 @@
+.form-control:User-error {
+  border: 1px solid #cc0000;
+}
+
+.navbar {
+margin: 0;  
+}
