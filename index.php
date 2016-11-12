@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/mobile.css" media="(max-width: 939px)">
+    <link href="https://fonts.googleapis.com/css?family=Bad+Script|PT+Sans" rel="stylesheet">
 </head>
 
 <body>
